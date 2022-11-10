@@ -2,7 +2,7 @@ import React from 'react'
 import {connect, Connect} from 'react-redux'
 
 import { buyIceCream } from './redux/IceCream/iceCreamActions'
-
+CreamCo
 function IceCreamContainer(props) {
   return (
     <div>
