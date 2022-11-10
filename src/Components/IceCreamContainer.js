@@ -1,5 +1,6 @@
 import React from 'react'
 import {connect, Connect} from 'react-redux'
+import WorkOut from 'WorkOut'
 
 import { buyIceCream } from './redux/IceCream/iceCreamActions'
 CreamCo
